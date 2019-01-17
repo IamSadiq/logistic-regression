@@ -1,2 +1,2 @@
 # LOGISTIC REGRESSION
-Deep Learning Prerequisite: Logistic Regression
+Deep Learning Prerequisites: Logistic Regression in Python
